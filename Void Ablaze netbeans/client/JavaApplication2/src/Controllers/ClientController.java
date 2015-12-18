@@ -14,23 +14,28 @@ import Views.*;
  * TODO
  */
 public class ClientController {
+    
     private DataSerializer ser;
     private ViewListener listeners;
     private ClientData dt;
     private Connection cnt;
     
-    private ConnectionPanel cp;
+    
     private EnginePanel ep;
-    private GamePanel gp;
+    
     private ImportantInfoPanel iip;
     private InGameMenu igm;
-    private GamePanel mm;
-    private GamePanel mcp;
-    private GamePanel pp;
-    private GamePanel sm;
-    private GamePanel sp;
+    private MainMenu mm;
+    private MaterialConverterPanel mcp;
+    private PropellersPanel pp;
+    private SettingsMenu sm;
+    private SquadronsPanel sp;
     private WeaponsPanel wp;
     
+    //MEYBE DO THIS
+    private ConnectionPanel cp;
+    //DOTHIS:
+    private GamePanel gp;
     
     public void connectToServer(){
         

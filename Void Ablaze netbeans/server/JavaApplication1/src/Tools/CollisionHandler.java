@@ -12,37 +12,20 @@ import Data.Math.*;
  * 
  */
 public class CollisionHandler {
+    static public final double CANNON_DMG = 1000;//PLACE HOLDER, rather use their velocity etc.
     
-    public boolean collide( Entity e1, Entity e2) {
-       if ( e1.isPhysical && e2.isPhysical ){
-           
-           if( e1.isDynamic && e2.isDynamic ){
-              
-          }
-           if( !e1.isDynamic && e2.isDynamic ){
-              
-          }
-           if( e1.isDynamic && !e2.isDynamic ){
-              
-          }
-           if( !e1.isDynamic && !e2.isDynamic ){
-              
-          }
-       }
-       else if ( !e1.isPhysical && e2.isPhysical ){
-           
-       }
-       else if ( e1.isPhysical && !e2.isPhysical ){
-           
-       }
-       else if ( !e1.isPhysical && !e2.isPhysical ){
-           
-       }
-   
-       return true; 
-    }
-    
-    public boolean pDpD( Physical e1, Physical e2){  
+    public boolean collide( Battleship b1, Battleship b2) {
+        double pow1 = b1.shield.getShield();
+        double pow2 = b2.shield.getShield();
+        b1.shield.losePower(pow2);
+        b2.shield.losePower(pow1);
         return true;
     }
+    
+    public boolean collide( CannonProjectile cp, Battleship b){
+        b.shield.losePower(CANNON_DMG);
+        return true;
+    }
+    
+    //TODO REST
 }

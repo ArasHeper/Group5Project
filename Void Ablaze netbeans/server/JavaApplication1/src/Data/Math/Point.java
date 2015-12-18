@@ -12,4 +12,9 @@ package Data.Math;
 public class Point {
     public double x;
     public double y;
+
+    public Point(double i, double i0) {
+        x = i;
+        y = i0;
+    }
 }

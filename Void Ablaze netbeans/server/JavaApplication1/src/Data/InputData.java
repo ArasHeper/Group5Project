@@ -14,13 +14,13 @@ public class InputData {
     //propeller power
     public boolean player; // 1st or 2nd player
     
-    public int pForw; // Forward/backward propeller
+    public double pForw; // Forward/backward propeller
     public boolean pForwChange;
     
-    public int pNose; // side nose propeller
+    public double pNose; // side nose propeller
     public boolean pNoseChange; 
     
-    public int pTail; // side tail propeller
+    public double pTail; // side tail propeller
     public boolean pTailChange; 
     
     //Wep
@@ -42,16 +42,16 @@ public class InputData {
     //ships internal components
     //Engine
     public boolean engineChange;
-    public int shield;
-    public int wep;
-    public int materialConverter;
+    public double shield;
+    public double wep;
+    public double materialConverter;
     
     //MaterialConverter
     public boolean MCChange;
-    public int fighter;
-    public int ME;
-    public int fuel;
-    public int ammo;
+    public double fighter;
+    public double ME;
+    public double fuel;
+    public double ammo;
     
     //ConnecitonLoss or PlayerLeaves
     boolean specialEnd;

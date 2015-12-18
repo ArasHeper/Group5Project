@@ -27,10 +27,10 @@ public class Edges {
         Edge[] newList = new Edge[psz];
         Point start;
         Point end;
-        for( int i = psz - 1; psz >= 0; i--){
+        for( int i = psz - 1; i >= 0; i--){
             if( i > 0){
                 end = lst[i];
-                start = lst[ i+ 1];
+                start = lst[ i- 1];
             }
             else{
                 end = lst[i];

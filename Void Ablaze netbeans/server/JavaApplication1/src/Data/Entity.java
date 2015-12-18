@@ -5,7 +5,7 @@
  */
 package Data;
 
-import Data.Math.Point;
+import Data.Math.*;
 
 /**
  *
@@ -19,9 +19,8 @@ public abstract class Entity {
     public Point loc;
     
     //direction:
-    public double dir; // angle
+    public Vector dir; // dirrection
     public boolean isDynamic = false;
-    public boolean isPhysical = true;
     
     
     

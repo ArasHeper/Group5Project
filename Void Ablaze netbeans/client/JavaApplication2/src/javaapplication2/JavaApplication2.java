@@ -5,6 +5,9 @@
  */
 package javaapplication2;
 
+import Controllers.ClientController;
+import Interface.Connection;
+
 /**
  *
  * @author Magus
@@ -14,8 +17,8 @@ public class JavaApplication2 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) throws InterruptedException {
+
     }
     
 }

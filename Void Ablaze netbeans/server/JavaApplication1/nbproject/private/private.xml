@@ -3,34 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Controllers/ServerController.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Dynamic.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Tools/DataSerializer.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/TestTools/TestInterface.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Controllers/GameCalculator.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Battleship.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Static.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Entity.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/HyperVelocityProjectile.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Math/Point.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Math/AngVeloc.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/FighterSqu.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/MatExt.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/CannonProjectile.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Physical.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Math/AngAcc.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/javaapplication1/JavaApplication1.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Math/Veloc.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Tools/CollisionHandler.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Math/Edges.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/GameData.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/GameList.java</file>
             <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Interface/Connection.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Math/Edge.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Math/Vertices.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/NonPhysical.java</file>
+            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Controllers/ServerController.java</file>
+            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/javaapplication1/JavaApplication1.java</file>
+            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Tools/DataSerializer.java</file>
+            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Controllers/GameCalculator.java</file>
+            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Tools/CollisionHandler.java</file>
+            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Battleship.java</file>
+            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Math/Edges.java</file>
             <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/InputData.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/Math/Acc.java</file>
+            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/server/JavaApplication1/src/Data/GameData.java</file>
         </group>
     </open-files>
 </project-private>

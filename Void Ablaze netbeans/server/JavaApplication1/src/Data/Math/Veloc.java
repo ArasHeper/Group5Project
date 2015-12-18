@@ -10,6 +10,5 @@ package Data.Math;
  * @author Magus
  */
 public class Veloc {
-    public double angle;
-    public double mag;
+    public Vector vector;
 }

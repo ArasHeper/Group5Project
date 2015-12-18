@@ -3,26 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Controllers/ViewListener.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/EnginePanel.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/ImportantInfoPanel.java</file>
             <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/javaapplication2/JavaApplication2.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/WeaponsPanel.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Controllers/ClientController.java</file>
             <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Interface/Connection.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/ConnectionPanel.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Data/HYVW.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/SquadronsPanel.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/MaterialConverterPanel.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/InGameMenu.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/MainMenu.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/PropellersPanel.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Data/ClientData.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Data/SquadWrapper.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Data/CannonWrapper.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/SettingsMenu.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Views/GamePanel.java</file>
-            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Data/EnviroWrapper.java</file>
+            <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Controllers/ClientController.java</file>
             <file>file:/E:/notsofun/Netbeans/Java/Void%20Ablaze/client/JavaApplication2/src/Tools/DataSerializer.java</file>
         </group>
     </open-files>

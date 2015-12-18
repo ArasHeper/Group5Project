@@ -10,6 +10,4 @@ package Data;
  * @author Magus
  */
 public class HyperVelocityProjectile extends NonPhysical{
-    static int lifetime = 10; //change this
-    public int age;
 }

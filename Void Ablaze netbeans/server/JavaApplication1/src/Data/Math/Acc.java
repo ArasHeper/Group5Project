@@ -10,6 +10,5 @@ package Data.Math;
  * @author Magus
  */
 public class Acc {
-    public double angle; // angle
-    public double mag; //magnitude
+    public Vector vector;
 }

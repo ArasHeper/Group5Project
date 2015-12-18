@@ -12,5 +12,7 @@ package Data;
 public class CannonWrapper {
     public double x;
     public double y;
+    public double dx;
+    public double dy;
     
 }
