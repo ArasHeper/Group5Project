@@ -17,7 +17,11 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
+        // TODO code application logic here
+        ServerController ctrl = new ServerController();
+        Thread thread = new Thread(ctrl);
+        ctrl.start();
+        thread.run();
         
     }
     

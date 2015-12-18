@@ -18,7 +18,17 @@ public class JavaApplication2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws InterruptedException {
-
+        // TODO code application logic here
+        ClientController ctrl = new ClientController();
+        Connection c = new Connection(ctrl);
+        Thread thread = new Thread(c);
+        thread.start();
+        int i = 0;
+        while ( i < 200000000 )
+            i++;
+        System.out.println("sdasdasdasd");
+        
+        
     }
     
 }
